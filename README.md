@@ -12,3 +12,11 @@
 ![JUnit](https://img.shields.io/badge/-Junit-090909?style=for-the-badge&logo=junit&logoColor=6296CC)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=6296CC)
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=6296CC)
+
+Как со мной связаться? 
+
+ВК: https://vk.com/id211485398
+
+Telegram: @EldarKhis
+
+email: ekhismatov@list.ru
