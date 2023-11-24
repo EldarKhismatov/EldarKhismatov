@@ -32,6 +32,8 @@
 
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=E9D54D) ![Espresso](https://img.shields.io/badge/-Espresso-090909?style=for-the-badge&logo=espresso&logoColor=E9D54D)
 
+![ApacheJMeter](https://img.shields.io/badge/-ApacheJMeter-090909?style=for-the-badge&logo=apachejmeter&logoColor=E9D54D)
+
 Выполненные проекты: 
 Автоматизированное тестирование крупного онлайн-сервиса.
 
