@@ -11,7 +11,7 @@
 *	Проведение unit-тестирования
 *	Подготовка и проведение автоматизированных тестовых сценариев
 *	Подготовка отчёта о тестировании, заведение дефектов
-*	Работа в Selenium Webdriver
+*	Работа в Selenium Webdriver и Selenide
 *	Проведение нагрузочных тестов, тестов безопасности и удобства использования
 * Мобильное тестирование Android-приложений с помощью Android Studio и Espresso
 * Автоматизация тестирования Frontend на JavaScript с помощью Puppeeter, Playwright, Cypress
@@ -67,16 +67,10 @@
 *	Отчётные документы по итогам автоматизации.
 Все материалы — документы, авто-тесты, открытые issue, отчёты и другие размещены в портфолио, в публичном репозитории(https://github.com/EldarKhismatov/Hospis)
 
-Сертификаты и дипломы:
-* Курс переподготовки ООО «Нетология» направление «Программирование», курс «Тестировщик ПО» (программа курса по [ссылке](https://netology.ru/programs/qa#/))
-* Курc JavaScript для тестирования ScolResult
-
-
-
 Как со мной связаться? 
 
 ВК: https://vk.com/id211485398
 
-Telegram: @EldarKhis
+Telegram: @IldarKhismatov
 
-email: ekhismatov@list.ru
+email: khasnimov@mail.ru
