@@ -69,8 +69,6 @@
 
 Как со мной связаться? 
 
-ВК: https://vk.com/id211485398
+Telegram: @KhisEldar
 
-Telegram: @IldarKhismatov
-
-email: khasnimov@mail.ru
+email: ekhismatov@list.ru
